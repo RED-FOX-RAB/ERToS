@@ -60,7 +60,7 @@
 
 ```bash
 # Repoyu klonla
-git clone https://github.com/KULLANICI_ADINIZ/ERToS.git
+git clone https://github.com/RED-FOX-RAB/ERToS.git
 cd ERToS
 
 # AppImage oluştur
@@ -210,5 +210,6 @@ Bu projeyi beğendiyseniz ⭐ vermeyi unutmayın!
 Made with ❤️ for Linux users
 
 </div>
+
 
 
