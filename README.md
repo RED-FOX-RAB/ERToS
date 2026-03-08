@@ -207,9 +207,10 @@ Bu projeyi beğendiyseniz ⭐ vermeyi unutmayın!
 
 **ERToS ile Windows uygulamalarını Linux'ta sorunsuz çalıştırın! 🚀**
 
-Made with ❤️ for Linux users
+Made with ❤️ for CaptainDipper
 
 </div>
+
 
 
 
